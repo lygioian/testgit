@@ -1,3 +1,3 @@
-# Author: lygioian1
+# Author: lygioian
 ## Developer
 ## DE
